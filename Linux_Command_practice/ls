@@ -1,0 +1,11 @@
+ls/ls -a:현재 디렉토리에 존재하는 파일과 폴더들을 출력합니다. -a옵션을 붙이면 숨김폴더까지 모두 보여줍니다.
+result of ls
+ls
+man
+pwd
+result of ls -a
+.
+..
+ls
+man
+pwd

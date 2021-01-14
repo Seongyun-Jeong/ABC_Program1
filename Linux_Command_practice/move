@@ -1,0 +1,12 @@
+
+mv [파일] [바꿀이름]/mv [파일] [폴더]:파일 이름을 바꾸거나 파일을 특정 폴더로 옮깁니다.
+
+)home directory에 있는 sample이라는 파일을 Linux_Command_practice폴더로 옮기는 경우
+ex: mv sample Linux_Command_practice
+
+-저기에 절대경로로 적어도 가능하더라고요
+ex: mv sample /home1/cs20201277/Linux_Command_practice
+
++상대경로도 가능함.
+Linux_Command_practice에서 상위 디렉토리로 이동할떄
+ex: mv sample ..
